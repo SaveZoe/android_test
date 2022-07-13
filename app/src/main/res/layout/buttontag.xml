@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:useDefaultMargins="true">
+
+    <Button
+        android:id="@+id/tag_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#3D44A9F4"
+        android:text="@string/composebetter"
+        android:textColor="#41A0E7"
+        android:textSize="11sp"
+        android:enabled="false"/>
+
+</GridLayout>

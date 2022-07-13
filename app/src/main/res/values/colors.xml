@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ButtonColor">#F4D144</color>
+    <color name="ColorTextButton">#050B18</color>
+    <color name="textColor">#B3EEF2FB</color>
+    <color name="transparent">@android:color/transparent</color>
 </resources>

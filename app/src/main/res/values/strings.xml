@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="install">Install</string>
+    <string name="todo">TODO</string>
+    <string name="dota_2">DoTA 2</string>
+    <string name="_70m">70M</string>
+    <string name="composebetter">ComposeBetter</string>
+    <string name="review_amp_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="_4_9">4.9</string>
 </resources>
